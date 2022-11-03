@@ -1,0 +1,4 @@
+name = "ReplicatorMutatorDynamics"
+uuid = "60519332-4029-4e71-a3e0-4f943c157cd5"
+authors = ["María Alejandra Ramírez <ramirez@evolbio.mpg.de>"]
+version = "0.1.0"

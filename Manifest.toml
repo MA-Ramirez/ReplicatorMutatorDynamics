@@ -113,6 +113,11 @@ git-tree-sha1 = "45e428421666073eab6f2da5c9d310d99bb12f9b"
 uuid = "189a3867-3050-52da-a836-e630ba90ab69"
 version = "1.2.2"
 
+[[deps.ReplicatorMutatorDynamics]]
+path = "src/ReplicatorMutatorDynamics"
+uuid = "60519332-4029-4e71-a3e0-4f943c157cd5"
+version = "0.1.0"
+
 [[deps.Requires]]
 deps = ["UUIDs"]
 git-tree-sha1 = "838a3a4188e2ded87a4f9f184b4b0d78a1e91cb7"
